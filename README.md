@@ -1,5 +1,6 @@
 # Collaboration-network-simulations-for-scientific-communities
 
+
 这一项目是本人博士学位论文《科学共同体合作网络的演化——基于主体建模的模拟与分析》所用的模型及相关模拟数据。其中，e-landscape and e-space - 3 （models for chapter 4）.nlogo为文章第四章模拟所用模型，考察了不同合作范围的认知团体在探索复杂认知景观过程中过的认知表现情况。e-landscape and e-space - 6 (model for chapter 5).nlogo为文章第五章模拟所用模型，考察了随机合作范围主体向前文最佳合作范围演化所需的条件和动态。
 
 data and figures.part1.rar和data and figures.part2.rar为本文模拟数据，其中包括了Netlogo产生的原始数据以及经过处理之后的用来可视化的最终数据。该压缩包为分卷压缩，如果需要下载查阅，请下载两个分卷后再进行解压。
@@ -7,6 +8,7 @@ data and figures.part1.rar和data and figures.part2.rar为本文模拟数据，�
 相关模型及代码为本人从初学阶段开始建立，期间经过多次更新及调整，如果发现其中任何问题和可以整理、优化之处，欢迎任何人批评指正。同时如果您有关于这一研究主题的任何想法，也无比欢迎您与我联系。
 
 本人的邮箱为：doshockx@gmail.com。
+
 
 This project is based on the model and simulation data used in my doctoral dissertation titled "The Evolution of the Scientific Community's Collaboration Network: An Agent-Based Modeling Approach". The file “e-landscape and e-space - 3 (models for chapter 4).nlogo” corresponds to the model used in Chapter 4, which examines the epistemic performance of epistemic communities with varying collaboration scopes during the serach of complex epistemic landscapes. The file “e-landscape and e-space - 6 (model for chapter 5).nlogo” corresponds to the model used in Chapter 5, which investigates the conditions and dynamics under which agents with random collaboration scopes evolve toward the optimal collaboration scope identified in the previous chapter.
 
